@@ -38,7 +38,7 @@ public class Launcher {
 
 
             } else{
-            System.out.println("Veuillez rentrez interactive ou auto");
+            System.out.println("Veuillez rentrez un argument");
 
         }
 

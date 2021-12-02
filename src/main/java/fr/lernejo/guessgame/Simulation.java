@@ -32,19 +32,19 @@ public class Simulation {
         //TODO implement me
         long nombre = player.askNextGuess();
         if ( numberToGuess == nombre ){
-            this.logger.log("True");
+            //this.logger.log("True");
             return true;
         }
         else{
             if( numberToGuess < nombre){
                 this.logger.log("le nombre est plus petit que celui à trouver");
-                this.player.respond(true);
+                //this.player.respond(true);
             }
             else{
                 this.logger.log("le nombre est plus grand que celui à trouver");
-                this.player.respond(false);
+                //this.player.respond(false);
             }
-            this.logger.log("False");
+            //this.logger.log("False");
             return false;
         }
 
