@@ -12,7 +12,7 @@ public class Launcher {
                 // long randomNumber = random.nextLong(); // génère un nombre entre Long.MIN_VALUE et Long.MAX_VALUE
                 long randomNumber = random.nextInt(100); // génère un nombre entre 0 (inclus) et 100 (exclus)
                 simulation.initialize(randomNumber);
-                System.out.println(randomNumber);
+              //  System.out.println(randomNumber);
                 simulation.loopUntilPlayerSucceed(MAX_VALUE);
             }
             else if (args[0].equals("-auto") && args.length==2) {
