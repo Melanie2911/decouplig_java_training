@@ -63,12 +63,12 @@ public class Simulation {
         Date currentDate = new Date(time);
         DateFormat df = new SimpleDateFormat("mm:ss.SSS");
         if (max < nb){
-            System.out.println("le joueur a trouvé la solution avant la limite d’itération");
-            System.out.println("Temps pris pour l'éxécution: " + df.format(currentDate));
+            this.logger.log("le joueur a trouvé la solution avant la limite d’itération, gagné");
+            this.logger.log("Temps pris pour l'éxécution: " + df.format(currentDate));
         }
         else{
-            System.out.println("le joueur n'a pas trouvé la solution avant la limite d’itération");
-            System.out.println("Temps pris pour l'éxécution: " + df.format(currentDate));
+            this.logger.log("le joueur n'a pas trouvé la solution avant la limite d’itération, perdu");
+            this.logger.log("Temps pris pour l'éxécution: " + df.format(currentDate));
         }
     }
 }
