@@ -376,3 +376,41 @@
 2021-12-06 14:29:44.145 simulation le nombre est plus grand que celui à trouver
 2021-12-06 14:29:44.189 simulation le joueur a trouvé la solution avant la limite d’itération, gagné
 2021-12-06 14:29:44.192 simulation Temps pris pour l'éxécution: 00:00.167
+2021-12-06 14:58:53.208 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.214 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.216 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.217 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.218 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.219 simulation le nombre est plus grand que celui à trouver
+2021-12-06 14:58:53.220 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.222 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.223 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.224 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.226 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.228 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.230 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.231 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.234 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.236 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.237 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.238 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.239 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.240 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.241 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.242 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.243 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.244 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.245 simulation le nombre est plus grand que celui à trouver
+2021-12-06 14:58:53.246 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.246 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.247 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.248 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.249 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.250 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.251 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.252 simulation le nombre est plus grand que celui à trouver
+2021-12-06 14:58:53.253 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.254 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.254 simulation le nombre est plus petit que celui à trouver
+2021-12-06 14:58:53.302 simulation le joueur a trouvé la solution avant la limite d’itération, gagné
+2021-12-06 14:58:53.305 simulation Temps pris pour l'éxécution: 00:00.187
