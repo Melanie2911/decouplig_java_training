@@ -63,7 +63,7 @@ public class Simulation {
         Date currentDate = new Date(time);
         DateFormat df = new SimpleDateFormat("mm:ss.SSS");
         if (max < nb){
-            this.logger.log("le joueur a trouvé la solution avant la limite d’itération, gagné");
+            this.logger.log("le joueur a trouvé la solution avant la limite d’itération, win");
             this.logger.log("Temps pris pour l'éxécution: " + df.format(currentDate));
         }
         else{

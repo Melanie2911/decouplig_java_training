@@ -414,3 +414,9 @@
 2021-12-06 14:58:53.254 simulation le nombre est plus petit que celui à trouver
 2021-12-06 14:58:53.302 simulation le joueur a trouvé la solution avant la limite d’itération, gagné
 2021-12-06 14:58:53.305 simulation Temps pris pour l'éxécution: 00:00.187
+2021-12-06 15:04:57.993 simulation le nombre est plus petit que celui à trouver
+2021-12-06 15:05:03.589 simulation le nombre est plus grand que celui à trouver
+2021-12-06 15:05:07.860 simulation le joueur a trouvé la solution avant la limite d’itération, gagné
+2021-12-06 15:05:07.865 simulation Temps pris pour l'éxécution: 00:21.058
+2021-12-06 15:06:48.491 simulation le joueur a trouvé la solution avant la limite d’itération, win
+2021-12-06 15:06:48.497 simulation Temps pris pour l'éxécution: 00:05.622
